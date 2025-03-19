@@ -24,6 +24,7 @@
 - Databases: SQL Server, MongoDB
 - Boards: STM32, ESP, MSP430, KL46Z, Arduino, Jetson Nano
 - AI: YOLO, VideoMae, ByteTrack, Diffusion, RoboFlow, Train Model
+- Automotive: Autosar Classic, OSEK OS, CAN.
 
  </div>
  
