@@ -53,12 +53,7 @@
 
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   ![snake gif](https://github.com/baobluebird/baobluebird/blob/output/github-snake-dark.svg)
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
