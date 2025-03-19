@@ -9,16 +9,15 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - 👯 I’m looking to collaborate on exciting projects that make a difference.
 - 🤔 I’m looking for help with innovative ideas and challenging problems.
 - 💬 Ask me about anything related to technology, coding, or open-source contribution.
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [baolektmt@gmail.com](mailto:baolektmt@gmail.com)
 - ⚡ Fun fact: I love exploring new cultures and cuisines.
 
 ## 🛠️ Skills
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Frameworks & Libraries: React, Node.js, Django, Spring Boot
-- Tools & Platforms: Git, Docker, Kubernetes, AWS
-- Databases: MySQL, PostgreSQL, MongoDB
+- Programming Languages: C/C++, Dart/Flutter
+- Frameworks & Libraries: React, Node.js
+- Tools & Platforms: Git, Docker
+- Databases: SQL Server, MongoDB
 
 ## 📈 GitHub Stats
 
@@ -30,8 +29,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-profile)
-- Personal Website: [Your Website](https://your-website.com)
+- LinkedIn: [bluebird272]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bluebird272/))
 
 Thanks for visiting my profile! Have a great day! 😊
