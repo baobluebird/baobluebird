@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 📫 Connect with Me
 
-- LinkedIn: [bluebird272]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bluebird272/))
+- LinkedIn: [bluebird272](https://www.linkedin.com/in/bluebird272/)
 
 Thanks for visiting my profile! Have a great day! 😊
