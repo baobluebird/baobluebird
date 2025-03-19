@@ -6,8 +6,6 @@
 
 <h3 align="center">A passionate software developer from VietNam</h3>
 
-<br/>
-
 <div align="center">
  
 ## 🚀 About Me
