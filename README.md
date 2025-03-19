@@ -6,15 +6,6 @@
 
 <div align="center">
  
-## 🚀 About Me
-
-- 🔭 I’m currently working on various open-source projects and contributing to the community.
-- 🌱 I’m currently learning new technologies and improving my skills in software development.
-- 👯 I’m looking to collaborate on exciting projects that make a difference.
-- 🤔 I’m looking for help with innovative ideas and challenging problems.
-- 💬 Ask me about anything related to technology, coding, or open-source contribution.
-- 📫 How to reach me: [baolektmt@gmail.com](mailto:baolektmt@gmail.com)
-- ⚡ Fun fact: I love exploring new cultures and cuisines.
 
 ## 🛠️ Skills
 
