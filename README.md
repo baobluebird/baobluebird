@@ -18,10 +18,12 @@
 
 ## 🛠️ Skills
 
-- Programming Languages: C/C++, Dart/Flutter
-- Frameworks & Libraries: React, Node.js
-- Tools & Platforms: Git, Docker
+- Programming Languages: C/C++, Dart
+- Frameworks & Libraries: Flutter, Node.js
+- Tools & Platforms: Git, Docker, Linux, Google Map API
 - Databases: SQL Server, MongoDB
+- Boards: STM32, ESP, MSP430, KL46Z, Arduino, Jetson Nano
+- AI: YOLO, VideoMae, ByteTrack, Diffusion, RoboFlow, Train Model
 
  </div>
  
